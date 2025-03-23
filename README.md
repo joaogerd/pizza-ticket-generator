@@ -44,7 +44,7 @@ cd ticket-generator
 
 ```bash
 conda env create -f environment.yml
-conda activate ticket-generator
+conda activate pizza-ticket-generator
 ```
 
 ### 3. Ou instale com `pip`
@@ -98,8 +98,8 @@ ticket-generator/
 
 > ⚠️ Disponível apenas após empacotamento:
 
-- 🔽 [Download para Linux (AppImage)](https://github.com/seu-usuario/ticket-generator/releases)
-- 🔽 [Download para Windows (EXE)](https://github.com/seu-usuario/ticket-generator/releases)
+- 🔽 [Download para Linux (AppImage)](https://github.com/joaogerd/pizza-ticket-generator/releases)
+- 🔽 [Download para Windows (EXE)](https://github.com/joaogerd/pizza-ticket-generator/releases)
 
 > Acesse a aba **Releases** para baixar.
 
