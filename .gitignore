@@ -1,0 +1,27 @@
+# Ignorar diretórios de ambiente Conda
+env/
+*.env
+.venv/
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar o diretório de construção do cx_Freeze
+build/
+dist/
+
+# Ignorar arquivos temporários de IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos do AppImage e outros temporários
+*.AppImage
+*.log
+
+# Ignorar arquivos de dependência locais
+*.pkl
+
+# Ignorar o arquivo de pdf
+*.pdf
+

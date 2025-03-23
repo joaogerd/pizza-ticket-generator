@@ -1,0 +1,10 @@
+name: ticket-generator
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pyqt=5
+  - pip
+  - pip:
+      - fpdf
+
