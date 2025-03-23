@@ -37,14 +37,14 @@
 
 ```bash
 git clone https://github.com/joaogerd/pizza-ticket-generator.git
-cd ticket-generator
+cd pizza-ticket-generator
 ```
 
 ### 2. Crie o ambiente Conda (recomendado)
 
 ```bash
 conda env create -f environment.yml
-conda activate pizza-ticket-generator
+conda activate ticket-generator
 ```
 
 ### 3. Ou instale com `pip`
