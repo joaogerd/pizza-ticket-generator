@@ -118,4 +118,3 @@ Desenvolvido por **João Gerd Zell de Mattos**.
 Projeto para o Grupo Escoteiro com ❤️.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/joaogerd/)
-```
