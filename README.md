@@ -1,4 +1,4 @@
-<h1 align="center">🎟️ Pizza Ticket Generator - Vale Pizza 🍕</h1>
+<h1 align="center">🎟️ Ticket Generator</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" alt="Python version">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Aplicativo com interface gráfica para gerar tickets de vale-pizza em PDF 🍕 <br>
+  Aplicativo com interface gráfica para gerar tickets em PDF 🎟️ <br>
   Desenvolvido para eventos do <strong>Grupo Escoteiro</strong>.
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 📦 Funcionalidades
 
-✅ Gerar tickets de pizza com layout padronizado  
+✅ Gerar tickets com layout padronizado  
 ✅ Definir número de tickets, valor e data  
 ✅ Personalização com imagem de fundo e fonte customizada  
 ✅ Interface simples com PyQt5  
@@ -36,8 +36,8 @@
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/joaogerd/pizza-ticket-generator.git
-cd pizza-ticket-generator
+git clone https://github.com/joaogerd/ticket-generator.git
+cd ticket-generator
 ```
 
 ### 2. Crie o ambiente Conda (recomendado)
